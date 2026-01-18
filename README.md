@@ -1,5 +1,6 @@
 # AI-Driven Autonomous Mobile Price Hunter & Cart Optimizer
 
+
 ## Problem  
 Online shoppers in India struggle to identify the true lowest price across multiple e-commerce platforms. Prices vary between sellers, variants, and hidden similar product sections, making manual comparison inefficient and unreliable.  
 
