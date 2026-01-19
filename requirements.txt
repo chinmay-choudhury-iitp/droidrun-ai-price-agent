@@ -1,0 +1,4 @@
+google-generativeai
+uiautomator2
+pillow
+requests
