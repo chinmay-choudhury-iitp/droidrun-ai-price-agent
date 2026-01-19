@@ -1,6 +1,3 @@
-**Creating README**
-
-I need to combine both descriptions into a single, improved README. It should follow GitHub format and include sections like Overview, Problem, Solution, Features, Architecture, Setup, Prerequisites, Installation, Configuration, Usage, Workflow, Limitations, Troubleshooting, FAQ, Security, and a License placeholder. I want to keep it concise but thorough, making sure all the important details are there without overwhelming the reader. No citations needed. Alright, let's get this done!
 # AI-driven autonomous mobile price hunter & cart optimizer
 
 An autonomous, mobile-native AI agent that finds the true lowest price across major Indian e-commerce platforms—then adds the cheapest valid variant to cart—using Google Gemini Vision and Android automation.
