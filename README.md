@@ -16,18 +16,6 @@ A Python agent that searches top marketplaces, opens live product pages on a rea
 
 ---
 
-## Supported platforms
-
-- **Amazon**
-- **Flipkart**
-- **JioMart**
-- **Tata Cliq**
-- **Croma**
-- **Myntra**
-- **Nykaa**
-
----
-
 ## Features
 
 - **Cross-market search:** Scans top 25 listings across 7 Indian marketplaces via Serper API.
