@@ -1,4 +1,4 @@
-# AI-driven autonomous mobile price hunter & cart optimizer
+# Autonomous Vision-Driven Mobile Price Optimization Agent
 
 An autonomous, mobile-native AI agent that finds the true lowest price across major Indian e-commerce platforms—then adds the cheapest valid variant to cart—using Google Gemini Vision and Android automation.
 
